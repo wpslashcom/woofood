@@ -1,8 +1,8 @@
-# WooFood Food Ordering Plugin for WordPress
+# WooFood -  Food Ordering Plugin for WordPress
 
-WooFood is a powerful plugin that allows restaurants to create an online food ordering system with ease. Below are some code snippet examples to help you extend or tweak WooFood’s functionality.
+WooFood is a powerful plugin that allows restaurants to create an online food ordering system with ease . Below are some code snippet examples to help you extend or tweak WooFood’s functionality.
 
-For more details on WooFood, visit the [official WooFood page](https://www.wpslash.com/plugin/woofood-food-delivery-plugin).
+For more details on WooFood, visit the [official WooFood plugin page](https://www.wpslash.com/plugin/woofood-food-delivery-plugin).
 
 ## Code Snippets
 
